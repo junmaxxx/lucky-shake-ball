@@ -17,6 +17,16 @@
 
 机舱里还在转的球点不动。这条规则是照着真实摇奖机的规则来的，也是第一版被用户指出后补上的。
 
+## 截图与演示
+
+![banner](docs/images/banner.png)
+
+| 拉下摇杆 | 掉出五颗 |
+| --- | --- |
+| <img src="docs/images/step1.png" width="260"> | <img src="docs/images/step2.png" width="260"> |
+
+15 秒实录（拉杆 → 翻滚 → 出球 → 启动应用）：[lucky-shake-ball-demo.mp4](../../releases/download/v1.1/lucky-shake-ball-demo.mp4)
+
 ## 没有素材，没有引擎
 
 - **全自绘**：机框、玻璃舱、彩球、门板全部 Canvas 绘制，任何分辨率下都锐利，改颜色只改一个常量；
@@ -28,7 +38,7 @@
 
 ## 安装
 
-1. 下载 [Releases](../../releases) 里的 `幸运摇摇球-v1.1.apk`；
+1. 下载 [Releases](../../releases) 里的 `lucky-shake-ball-v1.1.apk`；
 2. 手机允许"安装未知来源应用"；
 3. 安装后打开，拉起摇杆开始摇。
 
